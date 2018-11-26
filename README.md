@@ -10,8 +10,8 @@ https://www.tableau.com/about/blog/2018/6/artificial-intelligence-startup-empiri
 https://www.zdnet.com/article/tableau-launches-ask-data-natural-language-processing-system/
 
 - Technological Alliances with Datarobots and Amazon Sagemaker for Machine Learning : 
--https://www.datarobot.com/partner/tableau/
--https://www.tableau.com/about/blog/2018/10/our-ongoing-work-aws-support-your-cloud-analytics-journey-95959
+    - https://www.datarobot.com/partner/tableau/
+    - https://www.tableau.com/about/blog/2018/10/our-ongoing-work-aws-support-your-cloud-analytics-journey-95959
 
 
 # l'AI au service des utilisateurs de Tableau : 
