@@ -1,5 +1,8 @@
 # Smart-Analytics-Tableau-Prep-Ask-Data-Extension-
 
+# Toutes les versions de Tableau : Tableau Desktop, Tableau Prep, Tableau Server sont en téléchargement gratuit sur le site Tableau: 
+ ### https://www.tableau.com/support/releases
+
 # l'AI comme levier de l'innovation chez Tableau : 
 
 
