@@ -5,7 +5,7 @@
 - Tableau Prep, 
 - Tableau Server sont en téléchargement gratuit sur le site Tableau: 
  https://www.tableau.com/support/releases
-- Prix et licences : https://www.tableau.com/fr-fr/pricing/teams-orgs
+- Prix et licences Tableau : https://www.tableau.com/fr-fr/pricing/teams-orgs
 
 # l'IA comme levier de l'innovation chez Tableau : 
 
