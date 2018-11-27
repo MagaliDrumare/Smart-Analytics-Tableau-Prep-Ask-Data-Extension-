@@ -6,7 +6,7 @@
 - Tableau Server sont en téléchargement gratuit sur le site Tableau: 
  https://www.tableau.com/support/releases
 
-# l'AI comme levier de l'innovation chez Tableau : 
+# l'IA comme levier de l'innovation chez Tableau : 
 
 
 - Artificial Intelligence start-up : 
@@ -20,7 +20,7 @@ https://www.zdnet.com/article/tableau-launches-ask-data-natural-language-process
     - https://www.tableau.com/about/blog/2018/10/our-ongoing-work-aws-support-your-cloud-analytics-journey-95959
 
 
-# l'AI au service des utilisateurs de Tableau : 
+# l'IA au service des utilisateurs de Tableau : 
 
 - Tableau Prep : 
 https://www.tableau.com/fr-fr/products/prep
@@ -37,7 +37,7 @@ https://www.tableau.com/solutions/smart-analytics
 - Datascience Integration -Tableau with R, Python, MATLAB : 
 https://www.tableau.com/developer/data-science-integration
 
-- Tableau Extensions : 
+- Tableau Extensions API : 
 https://extensiongallery.tableau.com/
 
 - 2019 BI trends : 
